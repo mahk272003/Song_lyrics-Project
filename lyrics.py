@@ -13,11 +13,14 @@ def run_performance():
     os.system('cls' if os.name == 'nt' else 'clear')
     print("\n\n")
     lyrics = [
-        ("Haye Sajan Meri", 0.1),
-        ("Akkhan Taras Di", 0.12),
-        ("Haye Imaan Mera", 0.1),
-        ("Tutt Pai Gaya", 0.15),
-        ("Mennu Lutt Le Gaya", 0.18)
+        ("Khod se karu jo batay", 0.1),
+        ("Lagay k tum se ho rahi hai Guftagu", 0.12),
+        ("Dekho jo ainay ma", 0.1),
+        ("Lgay k aks hai tumhara hubahu", 0.15),
+        ("Dil mera, mera na raha", 0.18),
+        ("Ishq ma howa jo mubtala.....",0.19),
+        ("Kaya hai ye dewangi??",0.12),
+        ("Ya hai koi Khumar sa??",0.18)
     ]
     for line, speed in lyrics:
         sys.stdout.write("    ") 
