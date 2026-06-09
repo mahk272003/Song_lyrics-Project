@@ -16,7 +16,7 @@ Color Styling: Uses ANSI escape codes for a sleek green terminal aesthetic.
 
 Customizable: You can easily modify the lyrics list in the script to display your favorite songs.
 
-Requirements
+Requirements:
 This project uses standard Python libraries (sys, time, os), so no external installations are required.
 
 License
